@@ -1,0 +1,10 @@
+numpy
+matplotlib
+scipy
+pyaudio
+tk 
+
+# Usually part of standard Python install, but good to note for some environments
+# Pillow (PIL) might be needed by Matplotlib/TkAgg for some image operations, 
+# but often installed as a dependency. If not, add:
+# Pillow 
