@@ -1,4 +1,4 @@
-# Polyrhythmic Membrane: Microphone Noise Analyzer v2
+# Polyrhythmic Membrane: Microphone Noise Analyzer
 
 This application is an experimental tool designed to explore the "Polyrhythmic Membrane Theory," which proposes that quantum mechanical statistics (specifically the Born rule) can emerge from a classical substrate exhibiting specific noise characteristics.
 
