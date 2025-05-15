@@ -1,5 +1,7 @@
 # Polyrhythmic Membrane: Microphone Noise Analyzer
 
+(Edit: Added qubit gem that explores it without mic) 
+
 This application is an experimental tool designed to explore the "Polyrhythmic Membrane Theory," which proposes that quantum mechanical statistics (specifically the Born rule) can emerge from a classical substrate exhibiting specific noise characteristics.
 
 The program analyzes live audio input from a microphone to:
